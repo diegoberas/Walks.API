@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4MLiscErgYF0dkDNHQMwd/w20Ii3DnOCOZCl4/2vH17oiA50zVnZUlLizac6hpood64E9tke+LoFhZ063yBk/w==",
+  "dgSpecHash": "Zx1qXpzz6c7zVUSGv9a9wRvfbg5JpJbkD1w0SGpdBYDp5YgfZUNe+Q1pssor7isipmbBcJbDcg0S7CHYKwa42g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diego\\source\\repos\\NZWalks\\NZWalks.API\\NZWalks.API.csproj",
+  "projectFilePath": "C:\\Users\\Diego\\source\\repos\\Walks\\Walks.API\\NZWalks.API\\NZWalks.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Diego\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
